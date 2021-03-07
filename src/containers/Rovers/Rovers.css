@@ -1,0 +1,42 @@
+.Rovers {
+  display: block;
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.Rovers .RoversMainCard {
+  min-height: 90vh;
+}
+
+.Rovers .RoversMainCard .card-body .card-title {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.Rovers .RoversMainCard .card-body .card-body {
+  text-align: center;
+}
+
+.RoverCard {
+  margin: 0.2em;
+  min-width: 33vw;
+  min-height: 33vh;
+}
+
+.OneRoverCard .card-body .card-title.h5 {
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.OneRoverCard .card-body .row .col {
+  font-size: 1em;
+  padding: 0.5em;
+}
+
+.OneRoverCard .card-body .row .leftCol {
+  text-align: right;
+}
